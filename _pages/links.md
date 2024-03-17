@@ -4,7 +4,7 @@ title: "リンク"
 toc: false
 ---
 
-- [RoboCup SSL Japan Slack](https://join.slack.com/t/robocup-ssl-japan/shared_invite/zt-knp5oski-KgJT8PeH9jeeqOCu~ex6eg)  
+- [RoboCup SSL Japan Slack](https://join.slack.com/t/robocup-ssl-japan/shared_invite/zt-1vlx1enoi-yrRg3b4TESQn2d16xfBLeg)  
   - RoboCup SSL Japanのやりとりは Slackで行われています。  
     競技参加者の方、競技に興味のある方、どなたでもご自由にご参加ください。
 
