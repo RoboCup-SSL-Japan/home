@@ -84,6 +84,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+atom_feed:
+  hide: true
+
 collections:
   events:
     output: true
