@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "RoboCup SSLとは"
+toc: false
 ---
 RoboCup Soccer Small Size League は、小型のロボットでサッカーを行う競技です。特に小型リーグでは、非常に動的な環境でのマルチエージェントの協調と制御の問題に焦点を当てています。
 
@@ -16,6 +17,7 @@ RoboCup Soccer Small Size League は、小型のロボットでサッカーを�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5_8HpaHlzyE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+　
 
 # ヒト型
 ヒト型のロボットを用いてサッカーをするリーグです。  

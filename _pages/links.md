@@ -1,10 +1,8 @@
 ---
 permalink: /links/
 title: "リンク"
+toc: false
 ---
-<a href="https://join.slack.com/t/robocup-ssl-japan/shared_invite/zt-knp5oski-KgJT8PeH9jeeqOCu~ex6eg">
-![Slack icon](img/slack.png){: align=right width=30%}
-</a>
 
 - [RoboCup SSL Japan Slack](https://join.slack.com/t/robocup-ssl-japan/shared_invite/zt-knp5oski-KgJT8PeH9jeeqOCu~ex6eg)  
   - RoboCup SSL Japanのやりとりは Slackで行われています。  
