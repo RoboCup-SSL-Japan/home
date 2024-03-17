@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
+classes: wide
 ---
 ![about robocup ssl](/assets/images/unnamed.png){: align=right width=30%}
 
