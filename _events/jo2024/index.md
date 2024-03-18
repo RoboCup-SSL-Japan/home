@@ -8,6 +8,7 @@ toc: true
 
 大会の概要は [大会公式ホームページ](https://www.robocup.or.jp/JapanOpen2024/)をご確認ください。
 
+参加希望のチームは[参加登録方法]({{site.baseurl}}{% link _events/jo2024/registration.md %})を確認し、チーム番号発行用フォームへの記入をお願いします。
 
 # 参加チーム
 ## 車輪型
