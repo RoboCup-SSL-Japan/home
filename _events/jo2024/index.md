@@ -18,6 +18,8 @@ toc: true
 |S180-1|豊田工業高等専門学校|KIKS|
 |S180-2|Roots|Roots|
 |S180-3|Zhejiang University|ZJUNlict|
+|S180-4|なし|ibis|
+|S180-5|立命館大学|Ri-one|
 
 
 ## ヒト型
