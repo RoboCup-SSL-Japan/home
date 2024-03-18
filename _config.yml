@@ -86,8 +86,3 @@ tag_archive:
 
 atom_feed:
   hide: true
-
-collections:
-  events:
-    output: true
-    permalink: /:collection/:path/
