@@ -16,7 +16,7 @@ toc: true
 |---|---|---|
 |S180-1|豊田工業高等専門学校|KIKS|
 |S180-2|Roots|Roots|
-|S180-3|ZhejiangUniversity|ZJUNlict|
+|S180-3|Zhejiang University|ZJUNlict|
 
 
 ## ヒト型
