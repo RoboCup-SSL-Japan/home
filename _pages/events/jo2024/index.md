@@ -20,6 +20,11 @@ toc: true
 |S180-3|Zhejiang University|ZJUNlict|
 |S180-4|なし|ibis|
 |S180-5|立命館大学|Ri-one|
+|S180-6|仙台高専広瀬キャンパス|Sasa-kamatti|
+|S180-7|Ningbo University of Technology|Compilation Error|
+|S180-8|愛知県立大学|RoboDragons|
+|S180-9|Shenzhen Technology University|1034Robotics|
+
 
 
 ## ヒト型
