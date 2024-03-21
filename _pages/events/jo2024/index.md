@@ -24,6 +24,7 @@ toc: true
 |S180-7|Ningbo University of Technology|Compilation Error|
 |S180-8|愛知県立大学|RoboDragons|
 |S180-9|Shenzhen Technology University|1034Robotics|
+|S180-10|なし|GreenTea|
 
 
 
