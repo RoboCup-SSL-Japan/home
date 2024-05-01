@@ -75,3 +75,23 @@ toc: true
 | ----- | ------------------------ | --------------------- | --------------------- | -------------------------- | --------------------------------- | 
 | 9:30  | SSL-19<br>3rd Place Game | FT-1Loser<br>(ch36)   | FT-2Loser<br>(ch40)   | ibis                       | Ri-one                            | 
 | 11:00 | SSL-20<br>Final Game     | FT-1Winner<br>(ch36)  | FT-2Winner<br>(ch40)  | Roots                      | Sasa-kamatti                      | 
+
+
+# 結果
+## 予選リーグ
+### リーグA
+[![results League A](images/league_a_results.png)](images/league_a_results.png){: align=right width=30%}
+
+
+### リーグB
+[![results League B](images/league_b_results.png)](images/league_b_results.png){: align=right width=30%}
+
+
+
+## 決勝トーナメント
+[![results Final Tournament](images/final_tournament_results.png)](images/final_tournament_results.png){: align=right width=30%}
+
+
+## 3位決定戦
+[![results 3rd game](images/3rd_place_game_results.png)](images/3rd_place_game_results.png){: align=right width=30%}
+
