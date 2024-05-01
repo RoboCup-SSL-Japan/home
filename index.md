@@ -6,7 +6,7 @@ layout: home
 author_profile: false
 classes: wide
 ---
-![about robocup ssl](/assets/images/unnamed.png){: align=right width=30%}
+![about robocup ssl](assets/images/unnamed.png){: align=right width=30%}
 
 
 RoboCup Soccer Small Size League は、小型のロボットでサッカーを行う競技です。特に小型リーグでは、非常に動的な環境でのマルチエージェントの協調と制御の問題に焦点を当てています。
