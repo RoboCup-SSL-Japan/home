@@ -78,6 +78,8 @@ toc: true
 
 
 # 結果
+[PDF版](pdf/ssl_matches_2024_results.pdf)
+
 ## 予選リーグ
 ### リーグA
 [![results League A](images/league_a_results.png)](images/league_a_results.png){: align=right width=30%}
