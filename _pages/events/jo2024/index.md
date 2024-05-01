@@ -41,7 +41,7 @@ toc: true
 使用するルールのバージョンは確定次第お知らせします。
 
 # 会場の詳細
-TBD
+![japan open 2024 table](images/map_s180.png){: align=right width=30%}
 
 # スケジュール
 TBD
