@@ -45,6 +45,7 @@ toc: true
 
 # スケジュール
 ## 4/27 (Sat)
+
 | Time  | Match Number | Team1<br>(Wireless ch) | Team2<br>(Wireless ch)      | Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | ------------ |:----------------------:|:---------------------------:|:--------------------------:|:---------------------------------:| 
 | 10:00 | SSL-1<br>A-1 | ZJUNlict<br>(ch36)     | ibis<br>(ch40)              | RoboDragons                | KIKS                              | 
@@ -58,6 +59,7 @@ toc: true
 | 18:00 | SSL-9<br>A-6 | ibis<br>(ch36)         | Ri-one<br>(ch40)            | KIKS                       | Compilation Error                 | 
 
 ## 4/28 (Sun)
+
 | Time  | Match Number   | Team1<br>(Wireless ch) | Team2<br>(Wireless ch)      | Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | -------------- | ---------------------- | --------------------------- | -------------------------- | --------------------------------- | 
 | 10:00 | SSL-10<br>A-7  | ZJUNlict<br>(ch36)     | Ri-one<br>(ch40)            | Sasa-kamatti               | Compilation Error                 | 
@@ -71,6 +73,7 @@ toc: true
 | 18:00 | SSL-18<br>FT-2 | League B 1st<br>(ch36) | League A 2nd<br>(ch40)      | Sasa-kamatti               | GreenTea                          | 
 
 ## 4/29 (Mon)
+
 | Time  | Match Number             | Team1<br>(Wireless ch)| Team2<br>(Wireless ch)| Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | ------------------------ | --------------------- | --------------------- | -------------------------- | --------------------------------- | 
 | 9:30  | SSL-19<br>3rd Place Game | FT-1Loser<br>(ch36)   | FT-2Loser<br>(ch40)   | ibis                       | Ri-one                            | 
