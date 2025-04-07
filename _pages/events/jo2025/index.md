@@ -2,7 +2,7 @@
 title: "Japan Open 2025"
 layout: single
 toc: true
----
+--- 
 
 このページでは、JapanOpen2025の小型リーグに関する情報を発信しています。
 
