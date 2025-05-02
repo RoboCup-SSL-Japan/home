@@ -82,7 +82,7 @@ TBA
 
 
 # 結果
-[PDF版](pdf/ssl_matches_2024_results.pdf)
+[PDF版](pdf/ssl_matches_2025_results.pdf)
 
 ## 予選リーグ
 ### リーグA
