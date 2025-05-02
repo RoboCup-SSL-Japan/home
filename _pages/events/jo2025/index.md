@@ -41,9 +41,8 @@ toc: true
 
 # 会場の詳細
 TBA
-<!--
-![japan open 2024 table](images/map_s180.png){: align=right width=30%}
--->
+![japan open 2025 table](images/map_s180.png){: align=right width=30%}
+
 # スケジュール
 TBA
 
