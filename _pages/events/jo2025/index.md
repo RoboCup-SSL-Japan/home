@@ -80,6 +80,13 @@ TBA
 | 9:30  | SSL-19<br>3rd Place Game | FT-1Loser<br>(ch36)   | FT-2Loser<br>(ch40)   | ibis                         | Ri-one                                | 
 | 11:00 | SSL-20<br>Final Game     | FT-1Winner<br>(ch36)  | FT-2Winner<br>(ch40)  | OrcaBOT                         | RoboDragons                                | 
 
+# ライブ配信
+1日目: https://youtube.com/live/tPviN8eeQGY?feature=share 
+
+2日目: https://youtube.com/live/zSQ9-xXMb54?feature=share
+
+3日目: https://youtube.com/live/q61zFJ8qjLg?feature=share
+
 
 # 結果
 [PDF版](pdf/ssl_matches_2025_results.pdf)
