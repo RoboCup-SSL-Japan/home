@@ -82,8 +82,10 @@ TBA
 
 # ライブ配信
 [1日目](https://youtube.com/live/tPviN8eeQGY?feature=share)
-[1日目](https://youtube.com/live/zSQ9-xXMb54?feature=share)
-[1日目](https://youtube.com/live/q61zFJ8qjLg?feature=share)
+
+[2日目](https://youtube.com/live/zSQ9-xXMb54?feature=share)
+
+[3日目](https://youtube.com/live/q61zFJ8qjLg?feature=share)
   
 
 # 結果
