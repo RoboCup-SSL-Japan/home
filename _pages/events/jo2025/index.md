@@ -81,11 +81,11 @@ TBA
 | 11:00 | SSL-20<br>Final Game     | FT-1Winner<br>(ch36)  | FT-2Winner<br>(ch40)  | OrcaBOT                         | RoboDragons                                | 
 
 # ライブ配信
-[1日目](https://youtube.com/live/tPviN8eeQGY?feature=share)
+[1日目(5/3)](https://youtube.com/live/tPviN8eeQGY?feature=share)
 
-[2日目](https://youtube.com/live/zSQ9-xXMb54?feature=share)
+[2日目(5/4)](https://youtube.com/live/zSQ9-xXMb54?feature=share)
 
-[3日目](https://youtube.com/live/q61zFJ8qjLg?feature=share)
+[3日目(5/5)](https://youtube.com/live/q61zFJ8qjLg?feature=share)
 
 
 
