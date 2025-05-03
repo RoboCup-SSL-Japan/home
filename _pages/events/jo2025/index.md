@@ -49,20 +49,20 @@ TBA
 
 | Time  | Match Number | Team1<br>(Wireless ch)   | Team2<br>(Wireless ch)      | Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | ------------ |:------------------------:|:---------------------------:|:--------------------------:|:---------------------------------:| 
-| 10:00 | SSL-1<br>A-1 | TIGERs Mannheim<br>(ch36)| ibis<br>(ch40)              | KIKS                       | GreenTea                          | 
-| 11:00 | SSL-2<br>B-1 | RoboDragons<br>(ch36)    | OrcaBOT<br>(ch40)           | TRAPS                      | ibis                              | 
-| 12:00 | SSL-3<br>A-2 | Ri-one<br>(ch36)         | Roots<br>(ch40)             | OrcaBOT                    | TIGERs Mannheim                   | 
-| 13:00 | SSL-4<br>B-2 | GreenTea<br>(ch36)       | KIKS<br>(ch40)              | ibis                       | Ri-one                            | 
-| 14:00 | SSL-5<br>A-3 | TIGERs Mannheim<br>(ch36)| TRAPS<br>(ch40)             | RoboDragons                | GreenTea                          | 
-| 15:00 | SSL-6<br>A-4 | ibis<br>(ch36)           | Roots<br>(ch40)             | KIKS                       | OrcaBOT                           | 
-| 16:00 | SSL-7<br>B-3 | RoboDragons<br>(ch36)    | GreenTea<br>(ch40)          | TIGERs Mannhe              | Ri-one                            | 
-| 17:00 | SSL-8<br>A-5 | Roots<br>(ch36)          | TRAPS<br>(ch40)             | OrcaBOT                    | RoboDragons                       | 
-| 18:00 | SSL-9<br>A-6 | ibis<br>(ch36)           | Ri-one<br>(ch40)            | GreenTea                   | TRAPS                             | 
+| 11:30 | SSL-1<br>A-1 | TIGERs Mannheim<br>(ch36)| ibis<br>(ch40)              | KIKS                       | GreenTea                          | 
+| 12:30 | SSL-2<br>B-1 | RoboDragons<br>(ch36)    | OrcaBOT<br>(ch40)           | TRAPS                      | ibis                              | 
+| 13:30 | SSL-3<br>A-2 | Ri-one<br>(ch36)         | Roots<br>(ch40)             | OrcaBOT                    | TIGERs Mannheim                   | 
+| 14:30 | SSL-4<br>B-2 | GreenTea<br>(ch36)       | KIKS<br>(ch40)              | ibis                       | Ri-one                            | 
+| 15:30 | SSL-5<br>A-3 | TIGERs Mannheim<br>(ch36)| TRAPS<br>(ch40)             | RoboDragons                | GreenTea                          | 
+| 16:30 | SSL-6<br>A-4 | ibis<br>(ch36)           | Roots<br>(ch40)             | KIKS                       | OrcaBOT                           | 
+| 17:30 | SSL-7<br>B-3 | RoboDragons<br>(ch36)    | GreenTea<br>(ch40)          | TIGERs Mannhe              | Ri-one                            | 
+| 18:30 | SSL-9<br>A-6 | ibis<br>(ch36)           | Ri-one<br>(ch40)            | GreenTea                   | TRAPS                             | 
 
 ## 5/4 (Sun)
 
 | Time  | Match Number   | Team1<br>(Wireless ch)   | Team2<br>(Wireless ch)      | Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | -------------- |:------------------------:|:---------------------------:|:--------------------------:|:---------------------------------:| 
+| 09:00 | SSL-8<br>A-5 | Roots<br>(ch36)          | TRAPS<br>(ch40)             | OrcaBOT                    | RoboDragons                       | 
 | 10:00 | SSL-10<br>A-7  | TIGERs Mannheim<br>(ch36)| Ri-one<br>(ch40)            | RoboDragons                | TRAPS                             | 
 | 11:00 | SSL-11<br>B-4  | OrcaBOT<br>(ch36)        | KIKS<br>(ch40)              | Roots                      | Ri-one                            | 
 | 12:00 | SSL-12<br>A-8  | ibis<br>(ch36)           | TRAPS<br>(ch40)             | GreenTea                   | TIGERs Mannheim                   | 
@@ -86,7 +86,8 @@ TBA
 [2日目](https://youtube.com/live/zSQ9-xXMb54?feature=share)
 
 [3日目](https://youtube.com/live/q61zFJ8qjLg?feature=share)
-  
+
+
 
 # 結果
 [PDF版](pdf/ssl_matches_2025_results.pdf)
