@@ -76,9 +76,9 @@ TBA
 ## 5/5 (Mon)
 
 | Time  | Match Number             | Team1<br>(Wireless ch)| Team2<br>(Wireless ch)| Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
-| ----- | ------------------------ | --------------------- | --------------------- | -------------------------- | --------------------------------- | 
-| 9:30  | SSL-19<br>3rd Place Game | FT-1Loser<br>(ch36)   | FT-2Loser<br>(ch40)   | ibis                         | Ri-one                                | 
-| 11:00 | SSL-20<br>Final Game     | FT-1Winner<br>(ch36)  | FT-2Winner<br>(ch40)  | OrcaBOT                         | RoboDragons                                | 
+| ----- | ------------------------ | -------------------------- | --------------------- | -------------------------- | --------------------------------- | 
+| 9:30  | SSL-19<br>3rd Place Game | RoboDragons<br>(ch36)      | FT-2Loser<br>(ch40)   | Roots                      | Ohba                              | 
+| 11:00 | SSL-20<br>Final Game     | TIGERs Mannheim<br>(ch36)  | FT-2Winner<br>(ch40)  | RoboDragons                | 3rd Winner                        | 
 
 # ライブ配信
 [1日目(5/3)](https://youtube.com/live/tPviN8eeQGY?feature=share)
