@@ -77,8 +77,8 @@ TBA
 
 | Time  | Match Number             | Team1<br>(Wireless ch)| Team2<br>(Wireless ch)| Refree &<br>GameController | Assistant Ref. &<br>Vision Expert | 
 | ----- | ------------------------ | -------------------------- | --------------------- | -------------------------- | --------------------------------- | 
-| 9:30  | SSL-19<br>3rd Place Game | RoboDragons<br>(ch36)      | FT-2Loser<br>(ch40)   | Roots                      | Ohba                              | 
-| 11:00 | SSL-20<br>Final Game     | TIGERs Mannheim<br>(ch36)  | FT-2Winner<br>(ch40)  | RoboDragons                | 3rd Winner                        | 
+| 9:30  | SSL-19<br>3rd Place Game | RoboDragons<br>(ch36)      | ibis<br>(ch40)        | Roots                      | Ohba                              | 
+| 11:00 | SSL-20<br>Final Game     | TIGERs Mannheim<br>(ch36)  |KIKS<br>(ch40)         | RoboDragons                | ibis                              | 
 
 # ライブ配信
 [1日目(5/3)](https://youtube.com/live/tPviN8eeQGY?feature=share)
