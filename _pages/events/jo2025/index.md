@@ -70,8 +70,8 @@ TBA
 | 14:00 | SSL-14<br>A-9  | TIGERs Mannheim<br>(ch36)| Roots<br>(ch40)             | RoboDragons                | TRAPS                             | 
 | 15:00 | SSL-15<br>B-6  | OrcaBOT<br>(ch36)        | GreenTea<br>(ch40)          | ibis                       | Roots                             | 
 | 16:00 | SSL-16<br>A-10 | Ri-one<br>(ch36)         | TRAPS<br>(ch40)             | KIKS                       | Roots                             | 
-| 17:00 | SSL-17<br>FT-1 | League A 1st<br>(ch36)   | League B 2nd<br>(ch40)      | Ri-one                     | OrcaBOT                           | 
-| 18:00 | SSL-18<br>FT-2 | League B 1st<br>(ch36)   | League A 2nd<br>(ch40)      | RoboDragons                | Roots                             | 
+| 17:00 | SSL-17<br>FT-1 | TIGERs Mannheim<br>(ch36)| RoboDragons<br>(ch40)       |League A 5th                | GreenTea                          | 
+| 18:00 | SSL-18<br>FT-2 | KIKS<br>(ch36)           |ibis<br>(ch40)               | OrcaBOT                    | League A 4th                      | 
 
 ## 5/5 (Mon)
 
