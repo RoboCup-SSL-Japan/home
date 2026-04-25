@@ -108,9 +108,9 @@ TBA
 
 | League | ibis | ZUNOH | GreenTea | TRAPS | Ri-ONE | RoboDragons | Point | Goal Difference | Goals For | Standings |
 |:------:|:----:|:-----:|:--------:|:-----:|:------:|:-----------:|:-----:|:---------------:|:---------:|:---------:|
-| ibis        |  -  | 6-0 |        |        | 3-0 |  |  |  |  |  |
-| ZUNOH       | 0-6 |  -  |        |        |     |  |  |  |  |  |
-| GreenTea    |     |     |  -     | 0-0 負 |     |  |  |  |  |  |
-| TRAPS       |     |     | 0-0 勝 |   -    |     |  |  |  |  |  |
-| Ri-ONE      |     |     |        |        | 0-3 |  -  |  |  |  |  |
-| RoboDragons |     |     |        |        |     |  - |  |  |  |  |
+| ibis        |  -  | 6-0 | 4-0    |        | 3-0 |     |  |  |  |  |
+| ZUNOH       | 0-6 |  -  |        |        |     |     |  |  |  |  |
+| GreenTea    | 0-4 |     |   -    | 0-0 負 |     |     |  |  |  |  |
+| TRAPS       |     |     | 0-0 勝 |   -    |     |     |  |  |  |  |
+| Ri-ONE      | 0-3 |     |        |        |  -  | 0-2 |  |  |  |  |
+| RoboDragons |     |     |        |        | 2-0 |  -  |  |  |  |  |
