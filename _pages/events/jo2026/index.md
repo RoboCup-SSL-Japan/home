@@ -101,4 +101,14 @@ toc: true
 TBA
 
 # 結果
-TBA
+
+## 予選リーグ
+
+| League | ibis | ZUNOH | GreenTea | TRAPS | Ri-ONE | RoboDragons | Point | Goal Difference | Goals For | Standings |
+|:------:|:----:|:-----:|:--------:|:-----:|:------:|:-----------:|:-----:|:---------------:|:---------:|:---------:|
+| ibis        |  -  | 6-0 |        |        |  |  |  |  |  |  |
+| ZUNOH       | 0-6 |  -  |        |        |  |  |  |  |  |  |
+| GreenTea    |     |     |  -     | 0-0 負 |  |  |  |  |  |  |
+| TRAPS       |     |     | 0-0 勝 |   -    |  |  |  |  |  |  |
+| Ri-ONE      |     |     |        |        | - |  |  |  |  |  |
+| RoboDragons |     |     |        |        |  | - |  |  |  |  |
