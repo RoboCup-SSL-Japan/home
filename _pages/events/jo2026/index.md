@@ -13,14 +13,16 @@ toc: true
 # 参加チーム
 ## 車輪型
 
-|チームコード|所属|チーム名|
-|---|---|---|
-|S180-1|ibis|ibis|
-|S180-2|Traps|TRAPS|
-|S180-3|立命館大学|Ri-one|
-|S180-4|愛知県立大学|RoboDragons|
-|S180-5|なし|GreenTea|
-|S180-6|個人|ZUNOH Robotics|
+TDP (Team Description Paper) とは、各チームがロボットのハードウェア・ソフトウェア・戦略などについて記述した技術資料です。
+
+|チームコード|所属|チーム名|TDP|
+|---|---|---|---|
+|S180-1|ibis|ibis|[TDP](https://ssl.robocup.org/wp-content/uploads/2026/04/2026_ETDP_ibis.pdf)|
+|S180-2|Traps|TRAPS|[TDP](https://ssl.robocup.org/wp-content/uploads/2026/03/2026_TDP_TRAPS.pdf)|
+|S180-3|立命館大学|Ri-one|[TDP](https://ssl.robocup.org/wp-content/uploads/2026/03/2026_ETDP_Ri-one.pdf)|
+|S180-4|愛知県立大学|RoboDragons|[TDP](https://ssl.robocup.org/wp-content/uploads/2026/04/2026_ETDP_RoboDragons.pdf)|
+|S180-5|なし|GreenTea|[TDP](https://ssl.robocup.org/wp-content/uploads/2026/03/2026_TDP_GreenTea.pdf)|
+|S180-6|個人|ZUNOH Robotics|-|
 
 ## ヒト型チャレンジ
 
@@ -107,9 +109,9 @@ TBA
 
 | League | ibis | ZUNOH | GreenTea | TRAPS | Ri-ONE | RoboDragons | Point | Goal Difference | Goals For | Standings |
 |:------:|:----:|:-----:|:--------:|:-----:|:------:|:-----------:|:-----:|:---------------:|:---------:|:---------:|
-| ibis        |  -  | 6-0 |        |        |  |  |  |  |  |  |
-| ZUNOH       | 0-6 |  -  |        |        |  |  |  |  |  |  |
-| GreenTea    |     |     |  -     | 0-0 負 |  |  |  |  |  |  |
-| TRAPS       |     |     | 0-0 勝 |   -    |  |  |  |  |  |  |
-| Ri-ONE      |     |     |        |        | - |  |  |  |  |  |
-| RoboDragons |     |     |        |        |  | - |  |  |  |  |
+| ibis        |  -  | 6-0 |        |        | 3-0 |  |  |  |  |  |
+| ZUNOH       | 0-6 |  -  |        |        |     |  |  |  |  |  |
+| GreenTea    |     |     |  -     | 0-0 負 |     |  |  |  |  |  |
+| TRAPS       |     |     | 0-0 勝 |   -    |     |  |  |  |  |  |
+| Ri-ONE      |     |     |        |        | 0-3 |  -  |  |  |  |  |
+| RoboDragons |     |     |        |        |     |  - |  |  |  |  |
