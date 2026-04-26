@@ -10,6 +10,8 @@ toc: true
 
 参加希望のチームは[参加登録方法]({{site.baseurl}}{% link _pages/events/jo2026/registration.md %})を確認し、チーム番号発行用フォームへの記入をお願いします。
 
+[ヒト型チャレンジ（SSL Humanoid）については、こちらで発信しています。]({{site.baseurl}}{% link _pages/events/jo2026/ssl_humanoid.md %})
+
 # 参加チーム
 ## 車輪型
 
