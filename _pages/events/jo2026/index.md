@@ -12,6 +12,11 @@ toc: true
 
 [ヒト型チャレンジ（SSL Humanoid）については、こちらで発信しています。]({{site.baseurl}}{% link _pages/events/jo2026/ssl_humanoid.md %})
 
+# 現在の試合状況
+<iframe src="https://ssl.robocup.jp/vision/" style="width: 100%; height: 600px; border: none; margin-bottom: 20px;"></iframe>
+
+<iframe src="https://ssl.robocup.jp/statusboard/" style="width: 100%; height: 600px; border: none; margin-bottom: 20px;"></iframe>
+
 # 参加チーム
 ## 車輪型
 
