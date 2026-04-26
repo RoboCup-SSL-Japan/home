@@ -58,7 +58,7 @@ toc: true
 |第2試合|BackSpace|2 - 0|ODENS|
 |第3試合|BackSpace|0 - 0|ODENS|
 |第4試合|BackSpace|0 - 0|ODENS|
-|第5試合|BackSpace| -  |ODENS|
-|第6試合|BackSpace| -  |ODENS|
-|第7試合|BackSpace| -  |ODENS|
+|第5試合|BackSpace|2 - 0|ODENS|
+|第6試合|BackSpace|1 - 1|ODENS|
+|第7試合|BackSpace|2 - 0|ODENS|
 |第8試合|BackSpace| -  |ODENS|
