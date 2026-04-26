@@ -48,7 +48,10 @@ toc: true
 
 ## 4/27（月） 大会3日目
 
-未定
+|時間|試合|チーム1|チーム2|
+|---|---|---|---|
+|10:00-|第9試合|BackSpace|ODENS|
+|12:00-|第10試合|BackSpace|ODENS|
 
 # 結果
 
@@ -61,4 +64,6 @@ toc: true
 |第5試合|BackSpace|2 - 0|ODENS|
 |第6試合|BackSpace|1 - 1|ODENS|
 |第7試合|BackSpace|2 - 0|ODENS|
-|第8試合|BackSpace| -  |ODENS|
+|第8試合|BackSpace|0 - 1|ODENS|
+|第9試合|BackSpace| - |ODENS|
+|第10試合|BackSpace| - |ODENS|
