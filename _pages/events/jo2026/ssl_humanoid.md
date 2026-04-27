@@ -65,5 +65,8 @@ toc: true
 |第6試合|BackSpace|1 - 1|ODENS|
 |第7試合|BackSpace|2 - 0|ODENS|
 |第8試合|BackSpace|0 - 1|ODENS|
-|第9試合|BackSpace| - |ODENS|
-|第10試合|BackSpace| - |ODENS|
+|第9試合|BackSpace|0 - 0|ODENS|
+|第10試合|BackSpace|1 - 1|ODENS|
+
+- 第1位 BackSpace（3勝2敗5分）
+- 第2位 ODENS （2勝3敗5分）
