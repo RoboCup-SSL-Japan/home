@@ -12,11 +12,6 @@ toc: true
 
 [ヒト型チャレンジ（SSL Humanoid）については、こちらで発信しています。]({{site.baseurl}}{% link _pages/events/jo2026/ssl_humanoid.md %})
 
-# 現在の試合状況
-<iframe src="https://ssl.robocup.jp/vision/" style="width: 100%; height: 600px; border: none; margin-bottom: 20px;"></iframe>
-
-<iframe src="https://ssl.robocup.jp/statusboard/" style="width: 100%; height: 600px; border: none; margin-bottom: 20px;"></iframe>
-
 # 参加チーム
 ## 車輪型
 
@@ -121,3 +116,33 @@ TBA
 | TRAPS       | 0-2 | 8-1 | 10-0   |   -    | 2-0 |  -  | 7 | 18 | 20 | 2 |
 | Ri-ONE      | 0-3 | 2-2 | 0-0    | 0-2    |  -  | 0-2 | 1 | -5 | 2 | 6 |
 | RoboDragons | 1-1 | 1-0 | 0-1    |   -    | 2-0 |  -  | 7 | 3 | 4 | 3 |
+
+## 決勝トーナメント
+
+### 準決勝
+
+| Match | Team 1 | Score | Team 2 |
+|:-----:|:------:|:-----:|:------:|
+| FT-1 | ibis | 7-0 | ZUNOH |
+| FT-2 | RoboDragons | 0(カード差で勝ち)-0  | TRAPS |
+
+### 3位決定戦
+
+| Team 1 | Score | Team 2 |
+|:------:|:-----:|:------:|
+| ZUNOH | 0-5 | TRAPS |
+
+### 決勝
+
+| Team 1 | Score | Team 2 |
+|:------:|:-----:|:------:|
+| ibis | 4-1 | RoboDragons |
+
+### 最終順位
+
+| 順位 | チーム名 |
+|:----:|:--------:|
+| 優勝 | ibis |
+| 準優勝 | RoboDragons |
+| 3位 | TRAPS |
+| 4位 | ZUNOH |
