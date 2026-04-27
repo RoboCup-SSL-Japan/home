@@ -129,7 +129,7 @@ TBA
 | Match | Team 1 | Score | Team 2 |
 |:-----:|:------:|:-----:|:------:|
 | FT-1 | ibis | 7-0 | ZUNOH |
-| FT-2 | RoboDragons | 0-0 (PK勝ち) | TRAPS |
+| FT-2 | RoboDragons | 0-0 (カード数により勝利) | TRAPS |
 
 ### 最終順位
 
